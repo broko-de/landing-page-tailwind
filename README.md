@@ -1,6 +1,6 @@
 # Landing page en Tailwind CSS 3
 
-Este proyecto es un ejemplo de una **landing page** básica desarrollada utilizando **Tailwind CSS 3** como framework principal para el diseño y maquetación. El objetivo del proyecto es proporcionar una plantilla moderna y responsiva que puede ser utilizada como base para portfolios personales. Incluye ejemplos de secciones como hero, quienes somos, testimonios, preguntas frecuentas y un footer minimalista.
+Este proyecto es un ejemplo de una **landing page** básica desarrollada utilizando **Tailwind CSS 3** como framework principal para el diseño y maquetación. El objetivo del proyecto es proporcionar una plantilla moderna y responsiva que puede ser utilizada como base para una landing page. Incluye ejemplos de secciones como hero, quienes somos, testimonios, preguntas frecuentas y un footer minimalista.
 
 ## 🛠️ Tecnologías Utilizadas
 
